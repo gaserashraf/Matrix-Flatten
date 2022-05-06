@@ -28,7 +28,7 @@ out
    <hr>
 
    <h2 align='center'>sample exmaple test</h2>
-   <img width=100% src="screenshots/test.png" alt="logo"></a>
+   <img width=100% src="screenshots/test.PNG" alt="logo"></a>
 </div>
 
 
