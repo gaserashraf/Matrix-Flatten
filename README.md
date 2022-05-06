@@ -21,14 +21,14 @@ out
 
 <div name="Screenshots" align="center">
    <h2 align='center'>Class Matrix</h2>
-   <img width=100% src="screenshots/matrix.PNG" alt="logo"></a>
+   <img width=100% src="screenshots/matrix.png" alt="logo"></a>
    <hr>
   <h2 align='center'>Class Matrix Flatten</h2>
-   <img width=100% src="screenshots/flat.PNG" alt="logo"></a>
+   <img width=100% src="screenshots/flat.png" alt="logo"></a>
    <hr>
 
    <h2 align='center'>sample exmaple test</h2>
-   <img width=100% src="screenshots/test.PNG" alt="logo"></a>
+   <img width=100% src="screenshots/test.png" alt="logo"></a>
 </div>
 
 
