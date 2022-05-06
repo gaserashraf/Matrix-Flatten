@@ -1,2 +1,30 @@
 # Matrix-Flatten
 Master Micro's task to test programming skills for summer internship applicants Task3
+
+## 🏁 Get Started <a name = "Install"></a>
+
+```
+git clone https://github.com/gaserashraf/Matrix-Flatten.git
+```
+```
+cd Matrix-Flatten
+```
+```
+g++ source.cpp -o out
+```
+```
+out
+```
+## 💻 Built Using <a name = "tech"></a>
+- **C++**
+## 📷 Screenshots
+
+<div name="Screenshots" align="center">
+   <h2 align='center'>Class Matrix</h2>
+   <img width=100% src="screenshots/matrix class.PNG" alt="logo"></a>
+   <hr>
+  <h2 align='center'>Class Matrix Flatten</h2>
+   <img width=100% src="screenshots/flat.PNG" alt="logo"></a>
+   <hr>
+</div>
+
