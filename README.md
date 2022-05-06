@@ -21,10 +21,16 @@ out
 
 <div name="Screenshots" align="center">
    <h2 align='center'>Class Matrix</h2>
-   <img width=100% src="screenshots/matrix class.PNG" alt="logo"></a>
+   <img width=100% src="screenshots/matrix.PNG" alt="logo"></a>
    <hr>
   <h2 align='center'>Class Matrix Flatten</h2>
    <img width=100% src="screenshots/flat.PNG" alt="logo"></a>
    <hr>
+
+   <h2 align='center'>sample exmaple test</h2>
+   <img width=100% src="screenshots/test.PNG" alt="logo"></a>
 </div>
 
+
+## ✨ Complexity
+- *The complexity of the indexing from i,j,k to y is O(1)*
